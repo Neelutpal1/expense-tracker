@@ -171,28 +171,6 @@ Frontend: http://localhost:5173
 4. Choose alert threshold
 5. Click "Create"
 
-## � Project Structure
-
-\`\`\`
-expense-tracker-app/
-├── server/
-│   ├── models/        # Mongoose schemas
-│   ├── routes/        # API routes
-│   ├── middleware/    # Auth middleware
-│   ├── utils/         # OTP service
-│   ├── index.js       # Server entry
-│   └── seed.js        # DB seeder
-├── src/
-│   ├── components/    # Reusable components
-│   ├── context/       # State management
-│   ├── pages/         # Page components
-│   ├── utils/         # Helper functions
-│   ├── App.jsx        # Main app
-│   └── index.css      # Styles
-├── .env               # Environment vars
-├── package.json       # Dependencies
-└── README.md          # This file
-\`\`\`
 
 ## 🔧 Available Scripts
 
@@ -260,3 +238,4 @@ MIT License - Free for personal/commercial use.
 **Built with ❤️ using the MERN Stack**
 
 Happy Expense Tracking! 💰📊
+
