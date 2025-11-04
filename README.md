@@ -223,19 +223,4 @@ mongosh
 3. Check spam folder
 4. View server console for errors
 
-## 📄 License
-
-MIT License - Free for personal/commercial use.
-
-## 📧 Support
-
-- Email: support@expensetracker.com
-- Help: http://localhost:5173/help
-- Contact: http://localhost:5173/contact
-
----
-
-**Built with ❤️ using the MERN Stack**
-
-Happy Expense Tracking! 💰📊
 
