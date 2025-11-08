@@ -223,4 +223,7 @@ mongosh
 3. Check spam folder
 4. View server console for errors
 
+Deployed Link:
+https://melodious-otter-3eacec.netlify.app/
+
 
